@@ -4,6 +4,7 @@
 {% block page_content %}
     <div class="page-header">
     <h1>Hello,{% if content %}{{ content }}{% else %}Stranger{% endif %}</h1>
-    </div>
+
 {{ wtf.quick_form(form) }}
+    </div>
 {% endblock %}
