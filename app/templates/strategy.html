@@ -7,4 +7,13 @@
 
 {{ wtf.quick_form(form) }}
     </div>
+    <ul class="post">
+        {% for post in postl %}
+        <li class="post">
+            <div class="profile-thumbnail">
+                {{ post.content }}
+            </div>
+        </li>
+    {% endfor %}
+    </ul>
 {% endblock %}

@@ -24,14 +24,22 @@ def strategy():
             # # flash('the username has been existed')
             # return redirect(url_for('index'))
             username = User(username=form.username.data)
-            title = Post(title=form.title.data, content=form.content.data)
-            # content = Post(content=form.content.data)
             db.session.add(username)
+            db.session.commit()
+            title = Post(title=form.title.data, content=form.content.data,
+                         author_id=username.id)
+            # content = Post(content=form.content.data)
+
             db.session.add(title)
             # db.session.add(content)
             db.session.commit()
+            return redirect(url_for('strategy'))
         else:
             flash('the username has been existed')
             return redirect(url_for('index'))
+    postl = Post.query.order_by(Post.timestamp.desc()).all()
 
-    return render_template('strategy.html', form=form, username=form.username.data)
+    return render_template('strategy.html', form=form, username=form.username.data, postl=postl)
+
+# @app.route('/')
+# def gongl():
