@@ -29,3 +29,7 @@ class ChangePwd(Form):
     newpwd1 = StringField(u'新密码', validators=[DataRequired(), EqualTo('newpwd2', message=u'两次密码必须一致')])
     newpwd2 = StringField(u'确认新密码', validators=[DataRequired()])
     submit = SubmitField(u'更改')
+
+class ForgetPwd(Form):
+    email = StringField(u'请输入邮箱地址', validators=[DataRequired(), Email(), Length(1,64)])
+    submit = SubmitField(u'提交')

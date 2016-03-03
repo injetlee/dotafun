@@ -2,7 +2,7 @@
 from app import app, db
 from flask import render_template, redirect, url_for, flash, session, request
 from functools import wraps
-from form import NameForm, LoginForm, RegisterForm, ChangePwd
+from form import NameForm, LoginForm, RegisterForm, ChangePwd, ForgetPwd
 from model import User, Post
 from flask.ext.login import login_required, login_user, logout_user, current_user, current_app
 from flask.ext.mail import Message
@@ -138,7 +138,7 @@ def resend_confirmation():
 
     return redirect(url_for('.index'))
 
-@app.route('/changepwd', methods=['GET', 'POST'])
+@app.route('/changepwd',methods=['GET', 'POST'])
 @login_required
 def changepwd():
     form = ChangePwd()
@@ -155,8 +155,19 @@ def changepwd():
 
     return render_template('changepwd.html', form=form)
 
-# @app.route('/resetpwd')
+# @app.route('/resetpwd', methods=['GET', 'POST'])
 # def resetpwd():
 #     form = ForgetPwd()
-#     if form.validate_on_submit
+#     if not current_user.is_anonymous:
+#         redirect(url_for('.index'))
+#     if form.validate_on_submit():
+#         user = User.query.filter_by(email=form.email.data).first()
+#         if user:
+#             token = user.generate_confirm_token()
+#             send_email(user.email, u'确认你的账户', 'mail/confirm', user=user, token=token)
+#             flash('验证邮件已发到你的邮箱')
+#             return redirect(url_for('.index'))
+#         else:
+#             flash('邮箱不存在')
+#     return render_template('resetpwd.html', form=form)
 
