@@ -36,7 +36,7 @@
 {#    {{ form.remember_me.label }} {{ form.remember_me(size=50) }}#}
 {#    <input class="btn btn-primary btn-lg" type="submit" value="Go">#}
 {#</form>#}
-<form class="form form-horizontal" method="post" role="form">
+<div><form class="form form-horizontal" method="post" role="form">
   {{ form.hidden_tag() }}
   {{ wtf.form_errors(form, hiddens="only") }}
 
@@ -45,4 +45,6 @@
   {{ wtf.form_field(form.remember_me) }}
 <input class="btn btn-primary btn-lg" type="submit" value="Go">
 </form>
+{#    <a href="{{ url_for('.reset_password') }}">忘记密码？</a>#}
+</div>
 {% endblock %}

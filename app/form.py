@@ -23,3 +23,9 @@ class RegisterForm(Form):
     password1 = PasswordField(u'密码', validators=[DataRequired(), EqualTo('password', message=u'两次密码必须一致')] )
     password = PasswordField(u'再次输入密码', validators=[DataRequired()])
     submit = SubmitField(u'注册')
+
+class ChangePwd(Form):
+    oldpwd = StringField(u'旧密码', validators=[DataRequired()])
+    newpwd1 = StringField(u'新密码', validators=[DataRequired(), EqualTo('newpwd2', message=u'两次密码必须一致')])
+    newpwd2 = StringField(u'确认新密码', validators=[DataRequired()])
+    submit = SubmitField(u'更改')
