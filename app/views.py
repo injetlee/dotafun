@@ -155,19 +155,19 @@ def changepwd():
 
     return render_template('changepwd.html', form=form)
 
-# @app.route('/resetpwd', methods=['GET', 'POST'])
-# def resetpwd():
-#     form = ForgetPwd()
-#     if not current_user.is_anonymous:
-#         redirect(url_for('.index'))
-#     if form.validate_on_submit():
-#         user = User.query.filter_by(email=form.email.data).first()
-#         if user:
-#             token = user.generate_confirm_token()
-#             send_email(user.email, u'确认你的账户', 'mail/confirm', user=user, token=token)
-#             flash('验证邮件已发到你的邮箱')
-#             return redirect(url_for('.index'))
-#         else:
-#             flash('邮箱不存在')
-#     return render_template('resetpwd.html', form=form)
+@app.route('/resetpwd', methods=['GET', 'POST'])
+def resetpwd():
+    form = ForgetPwd()
+    if not current_user.is_anonymous:
+        redirect(url_for('.index'))
+    if form.validate_on_submit():
+        user = User.query.filter_by(email=form.email.data).first()
+        if user:
+            token = user.generate_confirm_token()
+            send_email(user.email, u'确认你的账户', 'mail/confirm', user=user, token=token)
+            flash('验证邮件已发到你的邮箱')
+            return redirect(url_for('.index'))
+        else:
+            flash('邮箱不存在')
+    return render_template('resetpwd.html', form=form)
 
