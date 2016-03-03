@@ -5,6 +5,7 @@ from flask.ext.sqlalchemy import SQLAlchemy
 import config
 from flask.ext.login import LoginManager
 from flask.ext.moment import Moment
+from flask.ext.mail import Mail
 
 
 
@@ -15,6 +16,7 @@ app = Flask(__name__)
 app.config.from_object(config)
 bootstrap = Bootstrap(app)
 moment = Moment(app)
+mail = Mail(app)
 login_manager = LoginManager(app)
 login_manager.session_protection = 'strong'
 login_manager.login_view = 'login'

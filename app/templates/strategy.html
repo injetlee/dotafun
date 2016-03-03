@@ -14,10 +14,16 @@
                 {{ moment(post.timestamp).fromNow() }}
             </div>
             <div class="post-author">
-                <a href="#">{{ post.author.username }}</a>
+                <a href="#">作者:{{ post.author.username }}</a>
             </div>
             <div class="post-body">
-                <p>{{ post.content }}</p>
+                <p>标题:{{ post.title }}</p>
+            </div>
+            <div class="post-body">
+                <p>内容:{{ post.content }}</p>
+            </div>
+            <div>
+                <a href="{{ url_for('.updatepost') }}">修改帖子</a>
             </div>
         </li>
     {% endfor %}

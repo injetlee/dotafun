@@ -5,7 +5,9 @@ from functools import wraps
 from form import NameForm, LoginForm, RegisterForm
 from model import User, Post
 from flask.ext.login import login_required, login_user, logout_user, current_user, current_app
-
+from flask.ext.mail import Message
+import config
+from . import mail
 def abc(func):
     @wraps(func)
     def decorated_view(*args, **kwargs):
@@ -75,6 +77,8 @@ def register():
         if User.query.filter_by(email=form.email.data).first():
             flash(u'邮箱已经注册，请登录')
             return redirect(url_for('.login'))
+        else:
+            send_email(config.FLASK_ADMIN, 'NEW USER', 'mail/new_user', user=form.username.data)
         user = User(email=form.email.data,
                     username=form.username.data,
                     password=form.password.data)
@@ -83,3 +87,14 @@ def register():
         flash(u'你已经注册成功了，请登录')
         return redirect(url_for('.login'))
     return render_template('register.html', form=form)
+
+@app.route('/update')
+def updatepost():
+    return render_template('updatepost.html')
+
+def send_email(to, subject, template, **kwargs):
+    msg = Message(config.FLASKY_MAIL_SUBJECT_PREFIX + subject,
+                  sender=config.FLASKY_MAIL_SENDER, recipients=[to])
+    msg.body = render_template(template + '.txt', **kwargs)
+    msg.html = render_template(template + '.html', **kwargs)
+    mail.send(msg)
