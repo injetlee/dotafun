@@ -20,6 +20,15 @@ class User(UserMixin, db.Model):
     password_hash = db.Column(db.String(128))
     posts = db.relationship('Post', backref='author', lazy='dynamic')
     confirmed = db.Column(db.Boolean, default=False)
+    name = db.Column(db.String(64))
+    location = db.Column(db.String(64))
+    about_me = db.Column(db.Text())
+    last_seen = db.Column(db.DateTime(), default=datetime.utcnow)
+
+    def ping(self):
+        self.last_seen = datetime.utcnow()
+        db.session.add(self)
+        db.session.commit()
 
     def generate_confirm_token(self, expiration=3600):
         s = Serializer(config.SECRET_KEY, expiration)
@@ -34,6 +43,23 @@ class User(UserMixin, db.Model):
         if data.get('confirm') != self.id:
             return False
         self.confirmed = True
+        db.session.add(self)
+        db.session.commit()
+        return True
+
+    def generate_resetpwd_token(self, expiration=3600):
+        s = Serializer(config.SECRET_KEY, expiration)
+        return s.dumps({'reset': self.id})
+
+    def confirm_resetpwd(self, token, newpwd):
+        s = Serializer(config.SECRET_KEY)
+        try:
+            data = s.loads(token)
+        except:
+            return False
+        if data.get('reset') != self.id:
+            return False
+        self.password = newpwd
         db.session.add(self)
         db.session.commit()
         return True

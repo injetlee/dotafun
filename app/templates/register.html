@@ -5,6 +5,8 @@
 {% import "bootstrap/wtf.html" as wtf %}
 {% block page_content %}
 <h1 class="text-center">注册<small>不推荐使用gmail</small></h1>
-
+<div class="col-md-5 form-horizontal">
     {{ wtf.quick_form(form) }}
+
+</div>
 {% endblock %}

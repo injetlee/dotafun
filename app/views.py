@@ -2,7 +2,7 @@
 from app import app, db
 from flask import render_template, redirect, url_for, flash, session, request
 from functools import wraps
-from form import NameForm, LoginForm, RegisterForm, ChangePwd, ForgetPwd
+from form import NameForm, LoginForm, RegisterForm, ChangePwd, ForgetPwd, ResetPwd
 from model import User, Post
 from flask.ext.login import login_required, login_user, logout_user, current_user, current_app
 from flask.ext.mail import Message
@@ -87,8 +87,6 @@ def register():
             send_email(config.FLASK_ADMIN, 'NEW USER', 'mail/new_user', user=user)
             token = user.generate_confirm_token()
             send_email(user.email, u'确认你的账户', 'mail/confirm', user=user, token=token)
-
-
         flash(u'一封确认邮件已经发送到你的邮箱')
         return redirect(url_for('.index'))
     return render_template('register.html', form=form)
@@ -115,13 +113,13 @@ def confirm(token):
         flash(u'链接无效，或者过期')
     return redirect(url_for('.index'))
 
-@app.before_request
-def before_request():
-    if current_user.is_authenticated \
-        and not current_user.confirmed \
-        and request.endpoint == 'writepost':
-        flash(u'请确认你的邮件地址')
-        return redirect(url_for('.unconfirmed'))
+# @app.before_request
+# def before_request():
+#     if current_user.is_authenticated \
+#         and not current_user.confirmed \
+#         and request.endpoint == 'writepost':
+#         flash(u'请确认你的邮件地址')
+#         return redirect(url_for('.unconfirmed'))
 
 @app.route('/unconfirmed')
 def unconfirmed():
@@ -151,8 +149,6 @@ def changepwd():
             return redirect(url_for('.index'))
         else:
             flash(u'无效的密码')
-
-
     return render_template('changepwd.html', form=form)
 
 @app.route('/resetpwd', methods=['GET', 'POST'])
@@ -163,11 +159,39 @@ def resetpwd():
     if form.validate_on_submit():
         user = User.query.filter_by(email=form.email.data).first()
         if user:
-            token = user.generate_confirm_token()
-            send_email(user.email, u'确认你的账户', 'mail/confirm', user=user, token=token)
-            flash('验证邮件已发到你的邮箱')
+            token = user.generate_resetpwd_token()
+            send_email(user.email, u'确认你的账户', 'mail/resetpwd', user=user, token=token)
+            flash(u'验证邮件已发到你的邮箱')
             return redirect(url_for('.index'))
         else:
-            flash('邮箱不存在')
+            flash(u'邮箱不存在')
     return render_template('resetpwd.html', form=form)
 
+@app.route('/resetpwd/<token>', methods=['GET', 'POST'])
+def resetpwd_sub(token):
+    if not current_user.is_anonymous:
+        return redirect(url_for('.index'))
+    form = ResetPwd()
+    if form.validate_on_submit():
+        user = User.query.filter_by(email=form.email.data).first()
+        if user is None:
+            return redirect(url_for('.index'))
+        if user.confirm_resetpwd(token, form.newpwd1.data):
+            flash(u'密码已经更改')
+            return redirect(url_for('.login'))
+        else:
+            return redirect(url_for('.index'))
+    return render_template('resetpwd.html', form=form)
+
+@app.route('/profile', methods=['GET', 'POST'])
+def profile():
+    return render_template('profile.html')
+
+@app.before_request
+def berore_request():
+    if current_user.is_authenticated:
+        current_user.ping()
+        if not current_user.confirmed \
+            and request.endpoint == 'writepost':
+            flash(u'请确认你的邮箱地址')
+            return redirect(url_for('.unconfirmed'))
