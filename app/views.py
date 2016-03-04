@@ -2,7 +2,7 @@
 from app import app, db
 from flask import render_template, redirect, url_for, flash, session, request
 from functools import wraps
-from form import NameForm, LoginForm, RegisterForm, ChangePwd, ForgetPwd, ResetPwd, Profile
+from form import NameForm, LoginForm, RegisterForm, ChangePwd, ForgetPwd, ResetPwd, ProfileForm
 from model import User, Post
 from flask.ext.login import login_required, login_user, logout_user, current_user, current_app
 from flask.ext.mail import Message
@@ -189,17 +189,19 @@ def resetpwd_sub(token):
     return render_template('resetpwd.html', form=form)
 
 @app.route('/profile', methods=['GET', 'POST'])
+@login_required
 def profile():
-    form = Profile()
-    form.name.data = current_user.name
-    form.location.data = current_user.location
-    form.about_me.data = current_user.about_me
+    form = ProfileForm()
+
     if form.validate_on_submit():
-        current_user.name = form.name.data
         current_user.location = form.location.data
         current_user.about_me = form.about_me.data
         db.session.add(current_user)
         db.session.commit()
+        return redirect(url_for('.user', username=current_user.username))
+    form.location.data = current_user.location
+    form.about_me.data = current_user.about_me
+
     return render_template('profile.html', form=form)
 
 @app.before_request

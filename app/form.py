@@ -31,8 +31,14 @@ class ChangePwd(Form):
     submit = SubmitField(u'更改')
 
 class ForgetPwd(Form):
-    email = StringField(u'请输入邮箱地址', validators=[DataRequired(), Email(), Length(1,64)])
+    email = StringField(u'请输入邮箱地址', validators=[DataRequired(), Email(), Length(1, 64)])
     submit = SubmitField(u'提交')
+
+
+class ProfileForm(Form):
+    location = StringField(u'你的城市', validators=[DataRequired()])
+    about_me = TextAreaField(u'自我介绍')
+    submit = SubmitField('SUBMIT')
 
 class ResetPwd(Form):
     email = StringField(u'请输入邮箱地址', validators=[DataRequired(), Email(), Length(1,64)])
@@ -40,8 +46,3 @@ class ResetPwd(Form):
     newpwd2 = StringField(u'确认新密码', validators=[DataRequired()])
     submit = SubmitField(u'提交')
 
-class Profile(Form):
-    name = StringField(u'你的名字', validators=[DataRequired(), Length(1,32)])
-    location = StringField(u'你的地址', validators=[DataRequired()])
-    about_me = TextAreaField(u'自我介绍')
-    submit = SubmitField(u'提交')

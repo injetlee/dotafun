@@ -20,10 +20,9 @@ class User(UserMixin, db.Model):
     password_hash = db.Column(db.String(128))
     posts = db.relationship('Post', backref='author', lazy='dynamic')
     confirmed = db.Column(db.Boolean, default=False)
-    name = db.Column(db.String(64))
+    last_seen = db.Column(db.DateTime(), default=datetime.utcnow)
     location = db.Column(db.String(64))
     about_me = db.Column(db.Text())
-    last_seen = db.Column(db.DateTime(), default=datetime.utcnow)
 
     def ping(self):
         self.last_seen = datetime.utcnow()
