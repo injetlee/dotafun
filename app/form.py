@@ -39,3 +39,9 @@ class ResetPwd(Form):
     newpwd1 = StringField(u'新密码', validators=[DataRequired(), EqualTo('newpwd2', message=u'两次密码必须一致')])
     newpwd2 = StringField(u'确认新密码', validators=[DataRequired()])
     submit = SubmitField(u'提交')
+
+class Profile(Form):
+    name = StringField(u'你的名字', validators=[DataRequired(), Length(1,32)])
+    location = StringField(u'你的地址', validators=[DataRequired()])
+    about_me = TextAreaField(u'自我介绍')
+    submit = SubmitField(u'提交')

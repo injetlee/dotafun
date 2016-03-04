@@ -15,8 +15,8 @@
       <column name="author_id" sqlType="INTEGER" precision="2000000000" scale="10" nullable="true" jdbcType="4"/>
       <primary-key columns="id),foreign key(author_id"/>
       <foreign-key name="#FAKE_posts_1" columns="author_id" ref-table="users" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
-      <index name="ix_posts_title" unique="true" columns="title"/>
       <index name="ix_posts_timestamp" unique="true" columns="timestamp"/>
+      <index name="ix_posts_title" unique="true" columns="title"/>
     </table>
     <table name="roles" schema="" catalog="" type="TABLE">
       <column name="id" sqlType="INTEGER" precision="2000000000" scale="10" nullable="false" jdbcType="4"/>
@@ -30,10 +30,14 @@
       <column name="username" sqlType="VARCHAR(64)" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
       <column name="password_hash" sqlType="VARCHAR(128)" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
       <column name="confirmed" sqlType="BOOLEAN" precision="2000000000" scale="10" nullable="true" jdbcType="4"/>
-      <primary-key columns="id"/>
+      <column name="about_me" sqlType="TEXT" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
+      <column name="last_seen" sqlType="DATETIME" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
+      <column name="location" sqlType="VARCHAR(64)" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
+      <column name="name" sqlType="VARCHAR(64)" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
+      <primary-key columns="id),check (confirmed in (0,1"/>
       <exported-key name="#FAKE_posts_1" table="posts" schema="" catalog="" columns="author_id"/>
-      <index name="ix_users_username" unique="true" columns="username"/>
       <index name="ix_users_email" unique="true" columns="email"/>
+      <index name="ix_users_username" unique="true" columns="username"/>
     </table>
   </data-source>
 </component>

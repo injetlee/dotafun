@@ -2,7 +2,7 @@
 from app import app, db
 from flask import render_template, redirect, url_for, flash, session, request
 from functools import wraps
-from form import NameForm, LoginForm, RegisterForm, ChangePwd, ForgetPwd, ResetPwd
+from form import NameForm, LoginForm, RegisterForm, ChangePwd, ForgetPwd, ResetPwd, Profile
 from model import User, Post
 from flask.ext.login import login_required, login_user, logout_user, current_user, current_app
 from flask.ext.mail import Message
@@ -75,9 +75,14 @@ def register():
     form = RegisterForm()
     if form.validate_on_submit():
         user = User.query.filter_by(email=form.email.data).first()
+        user_name = User.query.filter_by(username=form.username.data).first()
         if user is not None:
             flash(u'邮箱已经注册，请登录')
             return redirect(url_for('.login'))
+        elif user_name:
+            flash(u'用户名已经存在')
+            return redirect(url_for('.register'))
+
         else:
             user = User(email=form.email.data,
                     username=form.username.data,
@@ -185,7 +190,17 @@ def resetpwd_sub(token):
 
 @app.route('/profile', methods=['GET', 'POST'])
 def profile():
-    return render_template('profile.html')
+    form = Profile()
+    form.name.data = current_user.name
+    form.location.data = current_user.location
+    form.about_me.data = current_user.about_me
+    if form.validate_on_submit():
+        current_user.name = form.name.data
+        current_user.location = form.location.data
+        current_user.about_me = form.about_me.data
+        db.session.add(current_user)
+        db.session.commit()
+    return render_template('profile.html', form=form)
 
 @app.before_request
 def berore_request():
@@ -195,3 +210,9 @@ def berore_request():
             and request.endpoint == 'writepost':
             flash(u'请确认你的邮箱地址')
             return redirect(url_for('.unconfirmed'))
+
+
+@app.route('/user/<username>')
+def user(username):
+    user = User.query.filter_by(username=username).first()
+    return render_template('user.html', user=user)
