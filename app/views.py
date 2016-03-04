@@ -215,4 +215,4 @@ def berore_request():
 @app.route('/user/<username>')
 def user(username):
     user = User.query.filter_by(username=username).first()
-    return render_template('user.html', user=user)
+    return render_template('user.html',user=user)
