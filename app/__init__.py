@@ -22,6 +22,11 @@ login_manager.session_protection = 'strong'
 login_manager.login_view = 'login'
 login_manager.login_message = u'请先登录'
 db = SQLAlchemy(app)
+from model import Permission
+
+@app.context_processor
+def inject_permissions():
+    return dict(Permission=Permission)
 
 
 

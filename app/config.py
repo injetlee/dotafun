@@ -12,3 +12,4 @@ MAIL_PASSWORD = 'ipnumkmbpiyteftt'
 FLASK_ADMIN = '838500806@qq.com'
 FLASKY_MAIL_SUBJECT_PREFIX = '[DotaFun]'
 FLASKY_MAIL_SENDER = 'liyingjie26@126.com'
+

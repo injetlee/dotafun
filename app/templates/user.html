@@ -1,16 +1,17 @@
 {% extends "base.html" %}
 {% block page_content %}
-    <h1>profile</h1>
+    <h1>{{ user.username }}</h1>
     <address>
   <strong>{% if user.location %}
       From <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D{{ user.location }}">{{ user.location }}</a>
   {% endif %}</strong><br>
 </address>
-  <strong>{{ user.username }}</strong><br>
+  <h3>{{ user.username }}:<small>{{ user.about_me }}</small></h3><br>
   <a href="mailto:">{{ user.email }}</a>
 {#    <p>加入于{{ moment(user.member_since).format('L') }}#}
     <p>上次访问于{{ moment(user.last_seen).fromNow() }}</p>
 
-    <p>{{ user.about_me }}</p>
 
+    {% if user==current_user %}<a href="{{ url_for('.profile') }}">修改资料</a>
+{% endif %}
 {% endblock %}
