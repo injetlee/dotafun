@@ -2,16 +2,1261 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4715fbf3-3115-4cf2-bb72-46dc694aa3cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/decorators.py" />
-      <change type="DELETED" beforePath="E:\dota\.gitignore" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/lib/python2.5/site-packages/SiteEgg.egg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/alembic.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-64.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-arm-32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/console.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-2.7.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-64.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-arm-32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/less.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/mako-render.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip2.7.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip2.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/source.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/ubuntu.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/ar/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/ca/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/cs_CZ/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/cy/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/de/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/de_CH/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/el/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/en/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/es/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/et/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/fa/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/fr/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/it/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/ja/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/ko/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/nb/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/nl/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/pl/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/pt/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/ru/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/uk/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/zh/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/zh_TW/LC_MESSAGES/wtforms.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_WTF-0.12.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.8.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.11.4.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-1.5.6.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-3.6.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/FONT_LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_WTF-0.12.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.8.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.11.4.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-1.5.6.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-3.6.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.10.1-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Bootstrap-3.3.5.7-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Login-0.3.2-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Mail-0.9.1-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Migrate-1.8.0-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Moment-0.5.1-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_SQLAlchemy-2.1-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Script-2.0.5-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Mako-1.0.3-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.0.12-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/WTForms-2.1-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic-0.8.4-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/blinker-1.4-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate-2.1.17-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-0.24-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_editor-0.5-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/visitor-0.1.2-py2.7.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/Python-ast.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/Python.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/generic/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/multidb/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/pylons/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_migrate/templates/flask/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_migrate/templates/flask-multidb/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_WTF-0.12.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.8.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.11.4.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-1.5.6.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-3.6.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.10.1-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Bootstrap-3.3.5.7-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Login-0.3.2-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Mail-0.9.1-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Migrate-1.8.0-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Moment-0.5.1-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_SQLAlchemy-2.1-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Script-2.0.5-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Mako-1.0.3-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.0.12-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/WTForms-2.1-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic-0.8.4-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/blinker-1.4-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate-2.1.17-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-0.24-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_editor-0.5-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/visitor-0.1.2-py2.7.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/UserDict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_WTF-0.12.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.8.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.11.4.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-1.5.6.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-3.6.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/distutils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/_markerlib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/autogenerate/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/ddl/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/operations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/runtime/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/script/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/plugin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/blinker/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/ext/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/blueprintapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/blueprintapp/apps/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/blueprintapp/apps/frontend/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/config_package_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/flask_broken/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/flask_newext_package/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/flaskext/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/flaskext/oldext_package/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/lib/python2.5/site-packages/site_package/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/moduleapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/moduleapp/apps/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/moduleapp/apps/frontend/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/path/installed_package/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/subdomaintestmodule/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_migrate/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_script/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_sqlalchemy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/recaptcha/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/ext/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/_markerlib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/serializer/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/trie/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/backwardcompat/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/vcs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/connectors/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/databases/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/firebird/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/oracle/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sqlite/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sybase/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/event/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/declarative/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/plugin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/visitor/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/csrf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/appengine/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/csrf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/dateutil/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/django/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/django/templatetags/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/i18n/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/sqlalchemy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/fields/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/widgets/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/_abcoll.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/_ast_util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/trie/_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/_collections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_script/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_sqlalchemy/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_internal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/templates/_macro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_native.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_reloader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/blinker/_saferef.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_speedups.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/_stringdefs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/blinker/_utilities.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate/_version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/_weakrefset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/abc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/abstract.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/activate.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/activate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/activate_this.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/adapters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/adodbapi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/alembic-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/generic/alembic.ini.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/multidb/alembic.ini.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/pylons/alembic.ini.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_migrate/templates/flask/alembic.ini.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_migrate/templates/flask-multidb/alembic.ini.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/alias.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/aliases.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/annotation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/ansi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/ansitowin32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/autogenerate/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/event/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/declarative/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/appctx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/archive_util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/ascii.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/asdl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/assertions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/assertions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/assertsql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/associationproxy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/ast.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/ast.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/atom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/event/attr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/attributes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/ext/autohandler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/automap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/flask_broken/b.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/ext/babelplugin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/baked.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/templates/bootstrap/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/ddl/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/operations/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/script/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/blinker/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/firebird/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/oracle/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sqlite/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sybase/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/event/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/declarative/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/base64_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/basecommand.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/baseparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/basic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/operations/batch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/vcs/bazaar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/bccache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/bdist_egg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/bdist_rpm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/bdist_wininst.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/ext/beaker_cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/big5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/big5hkscs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/bitset.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/blueprints.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/blueprints.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/boolobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/plugin/bootstrap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/plugin/bootstrap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/bufferobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/build_ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/build_py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/bundle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/bytearrayobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/bytes_methods.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/bytesobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/bz2_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/cStringIO.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/cacert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/cellobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/certs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/ceval.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/charmap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/classobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_script/cli.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/declarative/clsregistry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/cmd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/cmdoptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/cobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/code.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/codecs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/codecs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/codegen.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/collections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/command.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_script/commands.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/autogenerate/compare.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/util/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/compile.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/compiler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/compiler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/compiler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/completion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/complexobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/config_module_app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/console.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/constraints.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/context.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/templates/context_template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/cookies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/copy_reg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/csrf/core.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/fields/core.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/widgets/core.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp037.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1006.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1026.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1140.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1250.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1251.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1252.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1253.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1254.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1255.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1256.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1257.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1258.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp424.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp437.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp500.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp720.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp737.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp775.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp850.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp852.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp855.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp856.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp857.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp858.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp860.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp861.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp862.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp863.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp864.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp865.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp866.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp869.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp874.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp875.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp932.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp949.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp950.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/crud.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/csrf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/ctx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/oracle/cx_oracle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/cymysql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/database.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/datastructures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/datetime.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/trie/datrie.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/appengine/db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/ddl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/debug.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/debugger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/debughelpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/default.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/default_comparator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/defaults.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/dependency.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.10.1-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Bootstrap-3.3.5.7-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Login-0.3.2-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Mail-0.9.1-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Migrate-1.8.0-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Moment-0.5.1-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_SQLAlchemy-2.1-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Script-2.0.5-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Mako-1.0.3-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.0.12-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/WTForms-2.1-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic-0.8.4-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/blinker-1.4-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate-2.1.17-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-0.24-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_editor-0.5-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-3.6.dist-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/visitor-0.1.2-py2.7.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/depends.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/deprecated_interfaces.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/deprecations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/deprecations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/descriptor_props.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/descrobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/develop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/dictobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/dist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/distutils/distutils.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/distutils_run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/dml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/doctest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate/document.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate/dom1core.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate/dom_tag.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/download.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/dtoa.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/dynamic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/easy_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/editor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/egg_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/elements.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/engines.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/engines.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/entities.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.8.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Mako-1.0.3-py2.7.egg-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic-0.8.4-py2.7.egg-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-1.5.6.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-3.6.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/enumobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/generic/env.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/multidb/env.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/pylons/env.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/env.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_migrate/templates/flask/env.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_migrate/templates/flask-multidb/env.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/runtime/environment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/environment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/environment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/errcode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/templates/escaping_template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jis_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jisx0213.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_kr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/eval.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/evaluator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/events.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/events.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/examples.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/exc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/exc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/exclusions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/exclusions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/expression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/extension.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/exthook.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/ext/extract.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/firebird/fdb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/recaptcha/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/appengine/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/csrf/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/dateutil/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/django/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/sqlalchemy/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/fileobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/filesystem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/filters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/filters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/fixers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/templates/bootstrap/fixes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/fixtures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/fixtures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_login.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_mail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_moment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/flask_newext_simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/floatobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/fnmatch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/form.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/form.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/csrf/form.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/i18n/form.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/formparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/frameobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/freeze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/funcobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/functions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/gaerdbms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gb18030.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gb2312.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gbk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/genericpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/genobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshistream.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/vcs/git.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/globals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/templates/bootstrap/google.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/graminit.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/grammar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/greenlet/greenlet.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/subdomaintestmodule/static/hello.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/help.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/helpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/helpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hex_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/hooks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/horizontal_shard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hp_roman8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/hstore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/html5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/fields/html5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/widgets/html5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/html5parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/serializer/htmlserializer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/http.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/hybrid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/i18n.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/i18n.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/django/i18n.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/identity.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/idna.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/ihatexml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/ddl/impl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/import.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/importerror.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/static/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/templates/admin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/blueprintapp/apps/frontend/templates/frontend/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/moduleapp/apps/frontend/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/information_schema.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/initialise.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/inputstream.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/inspection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/install_egg_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/install_lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/install_scripts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.10.1-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Bootstrap-3.3.5.7-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Login-0.3.2-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Mail-0.9.1-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Migrate-1.8.0-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Moment-0.5.1-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_SQLAlchemy-2.1-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Script-2.0.5-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Mako-1.0.3-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.0.12-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/WTForms-2.1-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic-0.8.4-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/blinker-1.4-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate-2.1.17-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-0.24-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_editor-0.5-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/visitor-0.1.2-py2.7.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/instrumentation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/instrumentation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/interfaces.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/interfaces.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/interfaces.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/intobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/intrcheck.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_kr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_14.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_15.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/iterio.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/iterobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/johab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/json.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/json.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/jsrouting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/firebird/kinterbasdb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_r.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_u.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/util/langhelpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/langhelpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/latin_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/launcher manifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/event/legacy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/lexer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/lexer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/lib2to3_ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/limiter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/linecache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/ext/linguaplugin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/lint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/lint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/listobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/loaders.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/loading.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/local.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/locale.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/locations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/locators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/log.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/log.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/logging.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/longintrepr.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/longobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/lookup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/lxmletree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_arabic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_centeuro.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_croatian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_cyrillic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_farsi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_greek.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_iceland.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_latin2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_roman.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_romanian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_turkish.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/templates/mail.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/main_app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/mako-render-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/manifest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/mapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/_markerlib/markers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/_markerlib/markers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/markers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/marshal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mbcs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/memoryobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/vcs/mercurial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/util/messaging.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/meta.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/meta.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_WTF-0.12.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.8.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.11.4.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-1.5.6.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/metadata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/metagrammar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/methodobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/runtime/migration.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/misc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/mock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/mock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/modsupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/moduleobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/ddl/mssql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/mutable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/connectors/mxodbc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/mxodbc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sybase/mxodbc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/ddl/mysql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/mysqlconnector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/mysqldb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/naming.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/nav.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/appengine/ndb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/templates/nested/nested.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/no-global-site-packages.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/node.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/nodes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/plugin/noseplugin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/plugin/noseplugin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.10.1-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Bootstrap-3.3.5.7-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Login-0.3.2-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Mail-0.9.1-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Migrate-1.8.0-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Moment-0.5.1-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_SQLAlchemy-2.1-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Script-2.0.5-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Mako-1.0.3-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic-0.8.4-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-0.24-py2.7.egg-info/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/ntpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/object.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/objimpl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/flaskext/oldext_simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/op.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/opcode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/operators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/operations/ops.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/optimizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/ddl/oracle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/orderinglist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/orig-prefix.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/django/orm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/sqlalchemy/orm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/os.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/osdefs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/oursql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/package_index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/templates/bootstrap/pagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/palmos.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/parsetok.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/parsetree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/patchlevel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/path_registry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/pep425tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/persistence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/pg8000.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pgen.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pgenheaders.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/pickleable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pkg_resources.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/plugin/plugin_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/plugin/plugin_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/pool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/posixemulation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/posixpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgres.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/ddl/postgresql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/ext/preprocessors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/processors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/profiler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/profiling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/properties.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/provision.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/provision.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/psycopg2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/psycopg2cffi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/ptcp154.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/pulldom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/punycode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/trie/py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/py26compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/py26compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/py27compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/py31compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/py_curses.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pyarena.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pycapsule.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pyconfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pyctype.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pydebug.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-3.6.dist-info/pydist.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pyerrors.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pyexpat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/util/pyfiles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pyfpe.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/pygen.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pygetopt.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/ext/pygmentplugin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pymacconfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pymactoolbox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pymath.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pymem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/pymssql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/pymysql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/connectors/pyodbc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/pyodbc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/pyodbc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sybase/pyodbc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/pyparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pyport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/pypostgresql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sqlite/pysqlcipher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sqlite/pysqlite.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pystate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pystrcmp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pystrtod.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sybase/pysybase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/plugin/pytestplugin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/plugin/pytestplugin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pythonrun.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/pythread.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/query.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/quopri_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/rangeobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/ranges.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/raw_unicode_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/re-vendor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/re.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/reflection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/register.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/event/registry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/regression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/relationships.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/autogenerate/render.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/replay_fixture.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/repr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/req.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/reqctx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/requirements.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/requirements.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-3.6.dist-info/requires.txt.orig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.10.1-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Bootstrap-3.3.5.7-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Login-0.3.2-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Mail-0.9.1-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Migrate-1.8.0-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Moment-0.5.1-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_SQLAlchemy-2.1-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Script-2.0.5-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Mako-1.0.3-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/WTForms-2.1-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic-0.8.4-py2.7.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/resources.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/result.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/script/revision.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/autogenerate/rewriter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/rot_13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/rotate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/routing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/runner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/runner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/runner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/runtime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/runtime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/sandbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/sandbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/sanitizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/saveopts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/schema.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/schema.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/schema.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/operations/schemaobj.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/scoping.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/script template (dev).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/script template.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/script-with-bom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/generic/script.py.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/multidb/script.py.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/templates/pylons/script.py.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_migrate/templates/flask/script.py.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_migrate/templates/flask-multidb/script.py.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/scripts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/sdist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/securecookie.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/security.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/selectable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/serializer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/serving.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/session.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/csrf/session.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/csrf/session.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/sessions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/sessions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/sessions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/setobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/setopt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jisx0213.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/show.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/shutil.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/signals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/signals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/fields/simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/templates/simple_template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/site-patch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/lib/python2.5/site-packages/site_app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/sliceobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/util/sqla_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/ddl/sqlite.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/sqltypes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/sre.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/sre_compile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/sre_constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/sre_parse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/ssl_support.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/stat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/state.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/strategies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/strategies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/strategy_options.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/string_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/stringobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/structmember.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/structseq.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/structures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/subclassing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/flask_newext_package/submodule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/flaskext/oldext_package/submodule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/vcs/subversion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/svn_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/symtable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/sync.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/sysmodule.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate/tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/tbtools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/template.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/templates/template_filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/templates/template_test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/templating.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/templating.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/static/css/test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/static/css/test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/static/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/static/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_bdist_egg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_build_ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_ddl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_develop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_dialect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_dist_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_easy_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_egg_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_find_packages.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_insert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_markerlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_packageindex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_reflection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_resources.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_results.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_sandbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_sdist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_select.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_sequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_svn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_types.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_update_delete.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_upload_docs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/testapp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/testing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/testtools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/threadlocal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/timefuncs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/tis_620.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/operations/toimpl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/token.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/tokenizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.10.1-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Bootstrap-3.3.5.7-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Login-0.3.2-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Mail-0.9.1-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Migrate-1.8.0-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Moment-0.5.1-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_SQLAlchemy-2.1-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Script-2.0.5-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_WTF-0.12.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.8.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Mako-1.0.3-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.0.12-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/WTForms-2.1-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.11.4.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic-0.8.4-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/blinker-1.4-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate-2.1.17-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-0.24-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-1.5.6.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_editor-0.5-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-3.6.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/visitor-0.1.2-py2.7.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/topological.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/traceback.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/tupleobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/ext/turbogears.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/type_api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/types.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/types.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/ucnhash.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/undefined.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/unicode_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/unicode_internal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/unicodeobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/uninstall.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/unitofwork.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/unzip.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/upload_docs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/useragents.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_be.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_le.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_be.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_le.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_8_sig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dominate/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mako/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/templates/bootstrap/utils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/i18n/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/uu_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/recaptcha/validators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/validators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask_Login-0.3.2-py2.7.egg-info/version_info.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testsuite/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/visitor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/visitors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/warnings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/warnings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alembic/testing/warnings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/warnings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Include/weakrefobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_wtf/recaptcha/widgets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/win32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/winterm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/wrappers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/wrappers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask_bootstrap/templates/bootstrap/wtf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/ar/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/ca/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/cs_CZ/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/cy/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/de/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/de_CH/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/el/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/en/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/es/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/et/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/fa/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/fr/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/it/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/ja/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/ko/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/nb/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/nl/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/pl/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/pt/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/ru/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/uk/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/zh/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/zh_TW/LC_MESSAGES/wtforms.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/locale/wtforms.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wtforms/ext/django/templatetags/wtforms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-3.6.dist-info/zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/commands/zip.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/zlib_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/connectors/zxJDBC.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/zxjdbc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/zxjdbc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/oracle/zxjdbc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/zxjdbc.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/data_op.sqlite" afterPath="$PROJECT_DIR$/app/data_op.sqlite" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/__init__.py" afterPath="$PROJECT_DIR$/app/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/base.html" afterPath="$PROJECT_DIR$/app/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config.py" afterPath="$PROJECT_DIR$/app/config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/model.py" afterPath="$PROJECT_DIR$/app/model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/user.html" afterPath="$PROJECT_DIR$/app/templates/user.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dota.iws" />
@@ -26,7 +1271,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/dota$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1457153591410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dota$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1457185377488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -114,7 +1359,7 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.6857142">
+            <state vertical-scroll-proportion="0.0">
               <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
               <folding />
             </state>
@@ -123,30 +1368,30 @@
       </file>
       <file leaf-file-name="users" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/aa46a31f/4d1c9214-88b7-4273-8a6b-633cee25858e/..users">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
           <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="roles" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/aa46a31f/4d1c9214-88b7-4273-8a6b-633cee25858e/..roles">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
           <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -164,7 +1409,7 @@
       <file leaf-file-name="strategy.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/strategy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.6571426">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
@@ -174,8 +1419,8 @@
       <file leaf-file-name="user.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/templates/user.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2249135">
-              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.35986158">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -198,9 +1443,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <marker date="1457149790681" expanded="true" signature="440:497" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -283,8 +1526,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-19" />
-    <option name="y" value="9" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -299,7 +1542,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -310,74 +1553,10 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dota" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dota" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dota" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dota" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dota" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="venv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dota" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dota" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="dota">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/data_op.sqlite" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/dota" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -805,33 +1984,39 @@
       <option name="project" value="LOCAL" />
       <updated>1457108202922</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add roles">
+      <created>1457153930899</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1457153930899</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-19" y="9" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16187595" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16565809" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33115825" sideWeight="0.5151286" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33509833" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.91517127" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.48487142" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31973898" sideWeight="0.4969743" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39937106" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.48487142" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39937106" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -875,7 +2060,8 @@
     <MESSAGE value="improve login" />
     <MESSAGE value="add email identificated" />
     <MESSAGE value="add profile page" />
-    <option name="LAST_COMMIT_MESSAGE" value="add profile page" />
+    <MESSAGE value="add roles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add roles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -884,6 +2070,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/user.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -896,7 +2100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -904,7 +2107,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="45" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -940,7 +2142,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,7 +2180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1004,13 +2204,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/flask/globals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4852941">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1137,14 +2330,14 @@
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/aa46a31f/4d1c9214-88b7-4273-8a6b-633cee25858e/..posts">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1152,7 +2345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,7 +2352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1178,7 +2369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="45" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1186,7 +2376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1200,7 +2389,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.6857142">
+        <state vertical-scroll-proportion="0.0">
           <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
           <folding />
         </state>
@@ -1208,30 +2397,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/strategy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6571426">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/aa46a31f/4d1c9214-88b7-4273-8a6b-633cee25858e/..users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1239,9 +2420,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <marker date="1457149790681" expanded="true" signature="440:497" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,15 +2435,15 @@
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/aa46a31f/4d1c9214-88b7-4273-8a6b-633cee25858e/..roles">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1280,8 +2459,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/user.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2249135">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.35986158">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
